@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "GIT_REVISION=\"a42d92e\";_GNU_SOURCE ~~~ /root/chavezcoinwallet/build;/root/chavezcoinwallet/src;/root/chavezcoinwallet/chavezcoin/external;/root/chavezcoinwallet/chavezcoin/include;/root/chavezcoinwallet/chavezcoin/src;/root/chavezcoinwallet/chavezcoin/src/Platform/Linux;/usr/include ~~~  ~~~ FALSE ~~~ ")

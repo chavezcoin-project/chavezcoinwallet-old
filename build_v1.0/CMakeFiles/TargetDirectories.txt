@@ -1,0 +1,4 @@
+/root/chavezcoinwallet/build/CMakeFiles/chavezcoin.dir
+/root/chavezcoinwallet/build/CMakeFiles/chavezcoin_automoc.dir
+/root/chavezcoinwallet/build/CMakeFiles/chavezcoin_v1.0.dir
+/root/chavezcoinwallet/build/CMakeFiles/chavezcoin_v1.0_automoc.dir

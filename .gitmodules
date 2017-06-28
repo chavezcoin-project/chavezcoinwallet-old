@@ -1,0 +1,3 @@
+[submodule "chavezcoin"]
+	path = chavezcoin
+	url = https://github.com/chavezcoin-project/chavezcoin.git
